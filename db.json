@@ -1,0 +1,78 @@
+[
+    {
+      "classNumber": "One",
+      "students": [
+        { "name": "Emma Johnson", "score": "A", "percentage": "94" },
+        { "name": "Michael Davis", "score": "B+", "percentage": "82" },
+        { "name": "Sophia Rodriguez", "score": "A-", "percentage": "89" },
+        { "name": "William Thompson", "score": "B", "percentage": "75" },
+        { "name": "Olivia White", "score": "A+", "percentage": "96" },
+        { "name": "James Brown", "score": "C", "percentage": "68" },
+        { "name": "Ava Wilson", "score": "B", "percentage": "77" },
+        { "name": "Daniel Lee", "score": "A", "percentage": "93" },
+        { "name": "Emily Taylor", "score": "B+", "percentage": "85" },
+        { "name": "Jackson Harris", "score": "A-", "percentage": "88" }
+      ]
+    },
+    {
+      "classNumber": "Two",
+      "students": [
+        { "name": "Liam Martinez", "score": "A", "percentage": "90" },
+        { "name": "Sophie Turner", "score": "B+", "percentage": "87" },
+        { "name": "Noah Clark", "score": "A-", "percentage": "88" },
+        { "name": "Ella Hall", "score": "B", "percentage": "86" },
+        { "name": "Jackson Turner", "score": "A+", "percentage": "94" },
+        { "name": "Ava Lewis", "score": "C", "percentage": "73" },
+        { "name": "Lucas Hill", "score": "B", "percentage": "89" },
+        { "name": "Isabella Gray", "score": "A", "percentage": "92" },
+        { "name": "Mia Parker", "score": "B+", "percentage": "86" },
+        { "name": "Ethan Turner", "score": "A-", "percentage": "87" }
+      ]
+    },
+    {
+      "classNumber": "Three",
+      "students": [
+        { "name": "Aiden Adams", "score": "A", "percentage": "91" },
+        { "name": "Emma Baker", "score": "B+", "percentage": "88" },
+        { "name": "Caleb Carter", "score": "A-", "percentage": "89" },
+        { "name": "Chloe Clark", "score": "B", "percentage": "86" },
+        { "name": "Avery Davis", "score": "A+", "percentage": "93" },
+        { "name": "Elijah Evans", "score": "C", "percentage": "74" },
+        { "name": "Mia Garcia", "score": "B", "percentage": "89" },
+        { "name": "Logan Green", "score": "A", "percentage": "94" },
+        { "name": "Layla Harris", "score": "B+", "percentage": "86" },
+        { "name": "Noah Hill", "score": "A-", "percentage": "87" }
+      ]
+    },
+    {
+      "classNumber": "Four",
+      "students": [
+        { "name": "Ella Hughes", "score": "A", "percentage": "90" },
+        { "name": "Ryan Jackson", "score": "B+", "percentage": "87" },
+        { "name": "Aiden Johnson", "score": "A-", "percentage": "88" },
+        { "name": "Sophia Lewis", "score": "B", "percentage": "86" },
+        { "name": "Oliver Martinez", "score": "A+", "percentage": "94" },
+        { "name": "Grace Miller", "score": "C", "percentage": "73" },
+        { "name": "Henry Parker", "score": "B", "percentage": "89" },
+        { "name": "Ava Robinson", "score": "A", "percentage": "92" },
+        { "name": "Jackson Rodriguez", "score": "B+", "percentage": "86" },
+        { "name": "Sophia Smith", "score": "A-", "percentage": "87" }
+      ]
+    },
+    {
+      "classNumber": "Five",
+      "students": [
+        { "name": "Olivia Taylor", "score": "A", "percentage": "91" },
+        { "name": "Noah Turner", "score": "B+", "percentage": "88" },
+        { "name": "Ava White", "score": "A-", "percentage": "89" },
+        { "name": "Liam Wilson", "score": "B", "percentage": "86" },
+        { "name": "Isabella Young", "score": "A+", "percentage": "93" },
+        { "name": "Mia Adams", "score": "C", "percentage": "74" },
+        { "name": "Ethan Baker", "score": "B", "percentage": "89" },
+        { "name": "Sophia Carter", "score": "A", "percentage": "94" },
+        { "name": "Jackson Davis", "score": "B+", "percentage": "86" },
+        { "name": "Emma Evans", "score": "A-", "percentage": "87" }
+      ]
+    }
+  ]
+  
